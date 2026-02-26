@@ -1,0 +1,17 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.radio{
+    padding: 13px;
+    margin: 24px;
+    border-radius: 18px;
+
+}
+button{
+    font-size: 16px;
+}
+#resultado{
+    color: bisque;
+    font-size: 28px;
+}
